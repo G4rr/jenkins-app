@@ -36,7 +36,7 @@ welcome = """
   <style>
   body {
     color: #ffffff;
-    background-color: #E0E0E0;
+    background-color: #E055E0;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
@@ -67,7 +67,7 @@ welcome = """
 
     text-align: right;
     padding-top: 11em;
-    background-color: #1BA86D;
+    background-color: #00A86D;
     background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #00B386 60%);
     background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6AF9BD), to(#00B386));
   }
@@ -106,22 +106,17 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
+    <h1>Congratulations my friend</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
     <img src="image.jpg">
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next?</h2>
+    <h2>The Next Links</h2>
     <ul>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">AWS Elastic Beanstalk concepts</a></li>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html">Deploy a Django Application to AWS Elastic Beanstalk</a></li>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_flask.html">Deploy a Flask Application to AWS Elastic Beanstalk</a></li>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_custom_container.html">Customizing and Configuring a Python Container</a></li>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/using-features.loggingS3.title.html">Working with Logs</a></li>
-
+    <li><a href="https://google.com">Personal Page</a></li>
+    <li><a href="https://github.com/G4rr/jenkins-app">GitHub of project</a></li>
     </ul>
   </div>
 </body>
